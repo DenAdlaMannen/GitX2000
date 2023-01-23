@@ -1,0 +1,37 @@
+
+# ConsoleApp2/obj/project.nuget.cache
+# ConsoleApp2/obj/project.assets.json
+# ConsoleApp2/obj/Debug/net6.0/refint/ConsoleApp2.dll
+# ConsoleApp2/obj/Debug/net6.0/ref/ConsoleApp2.dll
+# ConsoleApp2/obj/Debug/net6.0/ConsoleApp2.pdb
+# ConsoleApp2/obj/Debug/net6.0/ConsoleApp2.GlobalUsings.g.cs
+# ConsoleApp2/obj/Debug/net6.0/ConsoleApp2.genruntimeconfig.cache
+# ConsoleApp2/obj/Debug/net6.0/ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+# ConsoleApp2/obj/Debug/net6.0/ConsoleApp2.dll
+# ConsoleApp2/obj/Debug/net6.0/ConsoleApp2.csproj.FileListAbsolute.txt
+# ConsoleApp2/obj/Debug/net6.0/ConsoleApp2.csproj.CoreCompileInputs.cache
+# ConsoleApp2/obj/Debug/net6.0/ConsoleApp2.csproj.BuildWithSkipAnalyzers
+# ConsoleApp2/obj/Debug/net6.0/ConsoleApp2.csproj.AssemblyReference.cache
+# ConsoleApp2/obj/Debug/net6.0/ConsoleApp2.assets.cache
+# ConsoleApp2/obj/Debug/net6.0/ConsoleApp2.AssemblyInfoInputs.cache
+# ConsoleApp2/obj/Debug/net6.0/ConsoleApp2.AssemblyInfo.cs
+# ConsoleApp2/obj/Debug/net6.0/apphost.exe
+# ConsoleApp2/obj/Debug/net6.0/_IsIncrementalBuild
+# ConsoleApp2/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+# ConsoleApp2/obj/ConsoleApp2.csproj.nuget.g.targets
+# ConsoleApp2/obj/ConsoleApp2.csproj.nuget.g.props
+# ConsoleApp2/obj/ConsoleApp2.csproj.nuget.dgspec.json
+# ConsoleApp2/ConsoleApp2.sln
+# ConsoleApp2/ConsoleApp2.csproj
+# ConsoleApp2/bin/Debug/net6.0/ConsoleApp2.runtimeconfig.json
+# ConsoleApp2/bin/Debug/net6.0/ConsoleApp2.pdb
+# ConsoleApp2/bin/Debug/net6.0/ConsoleApp2.exe
+# ConsoleApp2/bin/Debug/net6.0/ConsoleApp2.dll
+# ConsoleApp2/bin/Debug/net6.0/ConsoleApp2.deps.json
+# ConsoleApp2/.vs/ConsoleApp2/v17/.suo
+
+
+ConsoleApp2/obj/*
+ConsoleApp2/bin/*
+ConsoleApp2/ConsoleApp2*
+ConsoleApp2/.vs/ConsoleApp2/v17/.suo
