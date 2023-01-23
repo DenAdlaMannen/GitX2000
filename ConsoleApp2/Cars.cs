@@ -8,5 +8,12 @@ namespace ConsoleApp2
 {
     internal class Cars
     {
+        public static void TestMethod()
+        {
+            Console.WriteLine("I love cars and trains.");
+
+            Console.Write("What is your favourite car color: ");
+            Console.ReadLine();
+        }
     }
 }
