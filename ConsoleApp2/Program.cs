@@ -6,7 +6,6 @@
         {
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Detta ska dyka upp!!");
-
             Cars.TestMethod();
         }
     }
